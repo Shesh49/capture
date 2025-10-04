@@ -11,9 +11,7 @@ This document outlines the key features and steps to set up and run a full-stack
   * **Robust REST API:** Features a fully built and tested **REST API** backend.
   * **Real-World Concept:** Incorporates **Rate Limiting** using **Upstash Redis**, providing a simple introduction to this essential technique.
   * **Responsive Design:** Offers a **completely responsive UI** that adapts to various screen sizes.
-  * **Educational Value:** An excellent resource for exploring:
-      * **HTTP Methods** (GET, POST, PUT, DELETE) and **Status Codes**.
-      * The differences between **SQL vs. NoSQL** databases.
+
 
 -----
 
@@ -21,7 +19,7 @@ This document outlines the key features and steps to set up and run a full-stack
 
 ### **1. Environment Variables (`.env` Setup)** ⚙️
 
-You need to create a `.env` file within the `/backend` directory and populate it with the following required variables:
+Create a `.env` file within the `/backend` directory and populate it with the following required variables:
 
 | Variable | Description |
 | :--- | :--- |
