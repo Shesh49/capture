@@ -14,8 +14,6 @@ This document outlines the key features and steps to set up and run a full-stack
   * **Educational Value:** An excellent resource for exploring:
       * **HTTP Methods** (GET, POST, PUT, DELETE) and **Status Codes**.
       * The differences between **SQL vs. NoSQL** databases.
-  * **Career Ready:** Includes a comprehensive **Deployment Guide** to help you add the live application to your resume.
-  * **Beginner-Friendly:** Specifically **designed for absolute beginners** in full-stack development.
 
 -----
 
